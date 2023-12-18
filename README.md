@@ -5,5 +5,5 @@
 
 👯‍♀️ I'm a web Developer.
 
-🧠 I'm currently woking on TradeView
+🧠 I'm currently working on TradeView
 
